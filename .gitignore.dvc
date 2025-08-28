@@ -1,0 +1,5 @@
+outs:
+- md5: 8cef48042d22e6c9603fd4db4a41b5d5
+  size: 418
+  hash: md5
+  path: .gitignore
